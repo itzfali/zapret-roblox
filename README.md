@@ -1,6 +1,8 @@
 # Zapret для Roblox
 Форк Flowseal/zapret-discord-youtube
 
+# ! Я ЗНАЮ ПРО БАГ С КРАШЕМ КОНСОЛИ. СКОРО ФИКС !
+
 # ! Там вроде чёта блокируют за обход, блаблабла. Дадада не отвечаю дадада !
 
 [Скачать (ZIP) (рекомендованно)](https://github.com/itzfali/zapret-roblox/releases/download/1.9.3/zapret-roblox-1.9.3.zip)
