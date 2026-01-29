@@ -7,7 +7,7 @@
 
 [Скачать (RAR)](https://github.com/itzfali/zapret-roblox/releases/download/1.9.3/zapret-roblox-1.9.3.rar)
 
-Вроде general (ALT8).bat работает
+Вроде general (ALT8).bat работает, либо пробуйте другие
 
 # Установка вручную
 Если вышла новая версия Zapret, а тут нету её
